@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+*.hex
+*.bin
+*.elf
+*.map
+*.pem
+*.key
+*.p12
+*.pfx
+*.kicad_pcb
+*.step

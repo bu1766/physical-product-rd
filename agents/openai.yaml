@@ -1,0 +1,6 @@
+interface:
+  display_name: "实体产品研发"
+  short_description: "协调实体产品需求、硬件、固件、结构、验证与验收"
+  default_prompt: "Use $physical-product-rd to coordinate an evidence-led physical product R&D task."
+policy:
+  allow_implicit_invocation: true
