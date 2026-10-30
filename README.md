@@ -1,10 +1,22 @@
-# Physical Product R&D
+# Physical Product R&D — Hardware and Firmware Development Skill
 
 [简体中文](README.zh-CN.md)
 
 `physical-product-rd` is a Codex skill for coordinating physical product development across requirements, hardware, firmware, mechanical design, integration, and verification. It helps organize evidence and bounded acceptance decisions. It contains no real product design, project records, customer data, or device test results.
 
 **Status: experimental workflow.** Two fictional scenarios have been walked through as documents. No controlled comparison has measured defects, rework, elapsed time, or token use. No real device has been validated by this package.
+
+## Who this is for
+
+For hardware and embedded-firmware developers using an AI coding assistant to structure a physical-product task: reviewing requirements, tracing hardware–firmware interfaces, planning integration tests, or recording acceptance evidence. This is a workflow package, not a circuit design, firmware library, or replacement for physical testing.
+
+## Download and explore
+
+- [Download the repository as a ZIP](https://github.com/bu1766/physical-product-rd/archive/refs/heads/main.zip), or select **Code → Download ZIP** on GitHub.
+- Start with [SKILL.md](SKILL.md), then read the [fictional worked example](references/example-and-template.md).
+- [中文说明与安装方法](README.zh-CN.md).
+
+Downloading does not install or run anything. Review the files and the license notice below before use.
 
 ## Install and invoke
 
