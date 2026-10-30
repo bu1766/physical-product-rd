@@ -1,10 +1,22 @@
-# 实体产品研发
+# 实体产品研发 Skill：硬件、固件与联调验证
 
 [English](README.md)
 
 `physical-product-rd` 是用于协调实体产品研发的 Codex skill，覆盖需求、硬件、固件、结构设计、联调和验证。它帮助整理证据并作出有边界的验收判断。本仓库不包含真实产品设计、项目记录、客户资料或实物测试结果。
 
 **状态：实验性流程。** 目前只对两个虚构场景做了文档推演；没有受控对比来测量缺陷、返工、耗时或 token 用量，也没有用本包验证真实设备。
+
+## 适合谁、能做什么
+
+适合使用 AI 编程助手的硬件与嵌入式固件开发者，用来梳理实体产品任务：审阅需求、追踪软硬件接口、规划联调测试、记录验收证据。这是一套流程文件，不是电路设计、固件库，也不能替代实物测试。
+
+## 下载与阅读入口
+
+- [下载仓库 ZIP](https://github.com/bu1766/physical-product-rd/archive/refs/heads/main.zip)，或在 GitHub 点击 **Code → Download ZIP**。
+- 先读 [SKILL.md](SKILL.md)，再看[虚构完整案例](references/example-and-template.md)。
+- [English introduction and installation](README.md)。
+
+下载不会自动安装或运行任何内容。使用前请审阅文件和下方许可证说明。
 
 ## 安装与调用
 
